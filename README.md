@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on Building scalable backend systems, custom WordPress solutions, and performance focused web platforms<br><br>👯 I’m looking to collaborate on Backend development, SaaS products, WordPress ecosystems, and Automation tools<br><br>🌱 I’m currently learning Node.js microservices, Server Optimization, and Cloud Infrastructure<br><br>💬 Ask me about Backend development, Advanced WordPress development, WooCommerce, APIs, Elementor, and Website optimization<br><br>⚡ Fun fact I can turn complex client ideas into fast, scalable, and user friendly web solutions with WordPress and custom backend development
 
 
